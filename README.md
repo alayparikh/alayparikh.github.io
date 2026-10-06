@@ -1,6 +1,6 @@
 # Alay Parikh
 
-Software developer with a strong interest in Java, Python, CI/CD, AWS, AI, RAG, and LLM-powered products.
+Software developer with a strong interest in Java, Python, CI/CD, AWS, AI, AI Agents, RAG, and LLM-powered products.
 
 I build practical software across AI workflows, full-stack web apps, automation, and cloud-minded delivery. My public work includes review intelligence tools, website builders, RAG assistants, portfolio experiments, business platforms, and CI/CD projects.
 

@@ -83,7 +83,8 @@ function initScene() {
     camera.aspect = w / h;
     camera.updateProjectionMatrix();
     // keep knot to the side on desktop, centered behind content on mobile
-    group.position.x = w > 900 ? 3.2 : 0;
+    group.position.x = w > 900 ? 6.2 : 0;
+    knot.material.opacity = w > 900 ? 0.55 : 0.3;
   }
   resize();
   window.addEventListener("resize", resize);
